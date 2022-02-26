@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
     private var layoutManager: RecyclerView.LayoutManager? = null
     private var adapter: RecyclerView.Adapter<RecyclerAdapter.ViewHolder>? = null
 
-    val button = findViewById<Button>(R.id.relativeLayout)
+//    val button = findViewById<Button>(R.id.relativeLayout)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
